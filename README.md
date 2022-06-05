@@ -22,7 +22,11 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Adds String#palindrome? and Integer#palindrome? methods.
+
+Ex.
+"Racecar".palindrome? => true
+12345.palindrome? => false
 
 ## Development
 
